@@ -1,2 +1,2 @@
-# Softcore-Processor
-Design of a softcore processor with VHDL (In Progress)
+# Softcore-Processor (In Progress)
+Design of a softcore processor with VHDL 
