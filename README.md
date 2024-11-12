@@ -1,5 +1,5 @@
 # Softcore-Processor (In Progress)
-A 8bits softcore processor designed with VHDL
+A 8bits softcore processor designed with VHDL (by Nassim Machane)
 
 ### *The softcore is not finished yet, the functionnality bold marcked are not implemented for now
   - Harvard Architecturehe softcore is not finished yet, the functionnality bold marcked are not implemented yet
